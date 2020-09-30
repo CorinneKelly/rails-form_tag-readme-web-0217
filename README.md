@@ -9,7 +9,7 @@ Welcome to the world of Rails forms, which give users the ability to submit data
 
 * Plain HTML form elements
 
-This lesson is going to begin by integrating HTML form elements and then slowly start refactoring the form using Rails methods. It would be very easy to integrate form helpers (and we could have our form working in a few minutes). However, fully understanding what Rails is doing behind the scenes is more important than getting the form working right away. We're going to build the system from the ground up. When we're finished, you should be able to understand all of the processes that are necessary in order to process forms in an application properly and securely.
+This lesson is going to begin by integrating HTML form elements and then slowly start refactoring the form using Rails methods. It would be very easy to integrate form helpers (and we could have our form working in a few minutes). However, fully understanding what Rails is doing behind the scenes is more important than getting the form working right away. We're going to build the system from the ground up. When we're finished, you should be able to understand all of the processes that are necessary to process forms in an application properly and securely.
 
 
 ## Rendering the form view
